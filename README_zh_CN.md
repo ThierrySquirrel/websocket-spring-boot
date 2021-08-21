@@ -20,7 +20,7 @@ Websocket Spring Book Edition
         <dependency>
             <artifactId>websocket-spring-boot-starter</artifactId>
             <groupId>com.github.thierrysquirrel</groupId>
-            <version>1.1.0.5-RELEASE</version>
+            <version>1.1.0.6-RELEASE</version>
         </dependency>
 ``` 
 
