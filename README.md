@@ -121,4 +121,4 @@ public class UserWebsocket extends AbstractWebsocketRouteTemplate {
 }
 ```
 
-![AmericanFlag](https://user-images.githubusercontent.com/49895274/184470845-fff03d74-fd60-4c3f-b0bf-b7fb4633eed8.jpeg)  
+![Russian flag](https://user-images.githubusercontent.com/49895274/190372048-0099fa7c-709e-4444-a813-75b7e10bec3b.png)
