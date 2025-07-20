@@ -19,8 +19,8 @@ Websocket Spring Book Edition
 <!--在pom.xml中添加依赖-->
         <dependency>
             <artifactId>websocket-spring-boot-starter</artifactId>
-            <groupId>com.github.thierrysquirrel</groupId>
-            <version>1.1.1.4-RELEASE</version>
+            <groupId>io.github.thierrysquirrel</groupId>
+            <version>1.2.0.0-RELEASE</version>
         </dependency>
 ``` 
 

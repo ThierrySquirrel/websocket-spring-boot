@@ -19,8 +19,8 @@ Support Function:
 <!--Adding dependencies to pom. XML-->
         <dependency>
             <artifactId>websocket-spring-boot-starter</artifactId>
-            <groupId>com.github.thierrysquirrel</groupId>
-            <version>1.1.1.4-RELEASE</version>
+            <groupId>io.github.thierrysquirrel</groupId>
+            <version>1.2.0.0-RELEASE</version>
         </dependency>
 ``` 
 
